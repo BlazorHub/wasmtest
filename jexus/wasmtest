@@ -1,0 +1,11 @@
+######################
+# Web Site: wasmtest.csharpkit.com 
+########################################
+
+port=80
+root=/ /var/www/wasmtest/
+hosts= wasmtest.csharpkit.com 
+NoFile=/index.html
+
+UseGZIP=true
+
